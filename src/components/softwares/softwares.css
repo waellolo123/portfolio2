@@ -1,0 +1,17 @@
+.softwares {
+    background-color: #4d194d;
+}
+.softs-container .softs-top {
+    width: 100%;
+    display: flex;
+    padding: 50px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.softs-top h2 {
+    color: white;
+    font-size: 3em;
+    margin: 0 0 0 20px;
+}
+

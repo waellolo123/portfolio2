@@ -1,0 +1,12 @@
+.soft-container .soft-block {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+.soft-container img {
+    width: 90px;
+}
